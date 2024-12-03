@@ -9,7 +9,7 @@
 2. Jason Roode [@jmr29693](https://github.com/jmr29693/Team-Unemployed-MIST4610-Group-Project-1)
 3. Jack Schaeffer [@jschaeffer2525](https://github.com/jschaeffer2525/MIST4610GroupProject2)
 4. Yirong Shen [@Yishen6](https://www.github.com/Yishen6)
-5. Nathan To [@nt12965](https://github.com/nt12965/Team-Unemployed-MIST4610-Group-Project-1)
+5. Nathan To [@nt12965](https://github.com/nt12965/MIST4610GroupProject2)
 
 ## Description: 
 Continuing off of what was established from Project 1, we cleaned up our data model to showcase clearer relationships between each entity. We also developed more complex queries to help understand our business process a little better from a managerial perspective. By using Tableau, we also created a few visualizations that can answer critical questions about the business model. 
