@@ -5,7 +5,7 @@
 
 ## Team Members: 
 
-1. Ben Lim [@ben270lim](https://github.com/ben270lim/Team-Unemployed-MIST4610-Group-Project-1)
+1. Ben Lim [@ben270lim](https://github.com/ben270lim/MIST4610GroupProject2)
 2. Jason Roode [@jmr29693](https://github.com/jmr29693/Team-Unemployed-MIST4610-Group-Project-1)
 3. Jack Schaeffer [@jschaeffer2525](https://github.com/jschaeffer2525/MIST4610GroupProject2)
 4. Yirong Shen [@Yishen6](https://www.github.com/Yishen6)
